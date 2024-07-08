@@ -23,18 +23,16 @@ At present, with the development of machine learning algorithms. More predictive
 ![alt text](https://github.com/Sayuksh/Credit-Risk-Modeling/blob/main/Male_Income_vs_Age.png)
 
 ### Modeling
-#### Decision Tree
-- accuracy: 0.85
-- recall: 0.85
-#### Random Forest
-- accuracy: 0.87
-- recall: 0.87
-#### XGBoost
-- accuracy: 0.60
+#### Logistic Regression
+- accuracy: 0.61
 - recall: 0.61
-#### Linear Discriminant Analysis
-- accuracy: 0.47
-- recall: 0.42
+#### Random Forest
+- accuracy: 0.99
+- recall: 0.99
+#### XGBOOST
+- accuracy: 0.99
+- recall: 0.99
+
 
 Based on the metrics above and the calibration curve, Random Forest has a stong predictive performance.
 ![alt Text](https://github.com/Sayuksh/Credit-Risk-Modeling/blob/main/Graphical_represenatation.png)
