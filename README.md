@@ -1,5 +1,3 @@
-# Credit-Risk-Modeling
-
 # CreditRiskModeling
 ### Introduction
 Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk.
@@ -19,8 +17,10 @@ At present, with the development of machine learning algorithms. More predictive
 - One-hot encode the non-numeric columns
 - Scaling
 - Deal with imbalanced data
-[Alt Text](https://www.github.com/Sayuksh/CREDIT-RISK-MODELING/Female_Income_vs_Age.png)
-[Alt Text](https://www.github.com/Sayuksh/CREDIT-RISK-MODELING/Male_Income_vs_Age.png)
+
+
+![alt text](https://github.com/Sayuksh/Credit-Risk-Modeling/blob/main/Female_Income_vs_Age.png)
+![alt text](https://github.com/Sayuksh/Credit-Risk-Modeling/blob/main/Male_Income_vs_Age.png)
 
 ### Modeling
 #### Decision Tree
@@ -37,7 +37,7 @@ At present, with the development of machine learning algorithms. More predictive
 - recall: 0.42
 
 Based on the metrics above and the calibration curve, Random Forest has a stong predictive performance.
-[Alt Text](https://www.github.com/Sayuksh/CREDIT-RISK-MODELING/Graphical_representation.png)
+![alt Text](https://github.com/Sayuksh/Credit-Risk-Modeling/blob/main/Graphical_represenatation.png)
 
 ### Credit Strategy
 Develop a business strategy by setting various acceptance rate to maximize the estimate portfolio value
