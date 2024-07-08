@@ -35,7 +35,7 @@ At present, with the development of machine learning algorithms. More predictive
 
 
 Based on the metrics above and the calibration curve, Random Forest has a stong predictive performance.
-![alt Text](https://github.com/Sayuksh/Credit-Risk-Modeling/blob/main/Graphical_represenatation.png)
+
 
 ### Credit Strategy
 Develop a business strategy by setting various acceptance rate to maximize the estimate portfolio value
